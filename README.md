@@ -4,6 +4,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=CSE+Student;Future+Software+Engineer;Building+Cool+Projects;Gym+%2B+Discipline" />
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-Java-orange?style=for-the-badge&logo=java"/>
+  <img src="https://img.shields.io/badge/Web-Development-blue?style=for-the-badge&logo=html5"/>
+  <img src="https://img.shields.io/badge/Gamer-Retro%20Style-purple?style=for-the-badge&logo=gamepad"/>
+</p>
+
 ---
 
 ## 🐍 Contribution Snake
@@ -14,11 +20,10 @@
 
 ## 🚀 About Me
 
-* 🎓 BTech CSE Student
-* 💻 Love building real-world projects
-* 🧠 Currently learning: Java + DSA
-* 🎮 Gamer + Developer
-* ⚡ Goal: Become a top developer
+✨ Passionate about coding & building cool things
+💻 Currently learning Java + DSA
+🎮 Love gaming & developing games
+⚡ Focused on growth & discipline
 
 ---
 
@@ -32,9 +37,13 @@
 
 ## 🎮 Retro Game
 
-🕹 A fullscreen retro-style platformer built using JavaScript
+✨ A fullscreen retro-style platformer with coins, enemies & scrolling
 
-👉 **[🎮 Play Now](https://maanojkc.github.io/retro-mario-game/)**
+<p align="center">
+  <a href="https://maanojkc.github.io/retro-mario-game/">
+    <img src="https://img.shields.io/badge/🎮%20Play%20Game-00F7FF?style=for-the-badge&logo=gamepad&logoColor=black"/>
+  </a>
+</p>
 
 ---
 
@@ -52,19 +61,21 @@
 
 ## 🔥 Projects
 
-* 🎮 Retro Game (Live)
-* 🚀 Loggy (Logging System)
-* 🤖 AI Assistant (Coming Soon)
+✨ 🎮 Retro Game (Live)
+✨ 🚀 Loggy (Logging System)
+✨ 🤖 AI Assistant (Coming Soon)
 
 ---
 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail"></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-<p align="center">✨ "Consistency beats motivation" ✨</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-❤️%20and%20Code-ff69b4?style=for-the-badge"/>
+</p>
