@@ -1,16 +1,19 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFB2&size=30&center=true&vCenter=true&lines=Hi+👋,+I'm+Manoj;SYSTEM+INITIALIZING...;WELCOME+TO+MY+PROFILE" />
+<h1 align="center" style="color:#58A6FF; font-family: monospace;">
+  Hi 👋, I'm Manoj
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00FFB2?style=for-the-badge&logo=databricks&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MODE-RETRO-FF00FF?style=for-the-badge&logo=gamepad&logoColor=black"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FFB2&center=true&vCenter=true&lines=CSE+Student;Building+Projects;Learning+Java+%26+DSA" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RETRO-MODE-00FFB2?style=for-the-badge&logo=gamepad&logoColor=black"/>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0f2027&height=120&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=header"/>
 </p>
 
 ---
@@ -25,11 +28,9 @@
 
 ## 🚀 About Me
 
-```
-> ROLE: CSE Student  
-> STATUS: Building real-world projects  
-> CURRENT: Learning Java & DSA  
-```
+* 🎓 CSE Student
+* 💻 Building real-world projects
+* 🧠 Learning Java & DSA
 
 ---
 
@@ -42,27 +43,27 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:222222&height=2&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,100:243B55&height=2&section=footer"/>
 </p>
 
 ---
 
 ## 🎮 Retro Game
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LEVEL-01-00FFB2?style=for-the-badge"/>
+<p align="center" style="color:#00FFB2;">
+  A fullscreen platformer built using JavaScript  
 </p>
 
 <p align="center">
   <a href="https://maanojkc.github.io/retro-mario-game/">
-    <img src="https://img.shields.io/badge/▶%20START%20GAME-00FFB2?style=for-the-badge&logo=gamepad&logoColor=black"/>
+    <img src="https://img.shields.io/badge/▶%20PLAY%20GAME-00FFB2?style=for-the-badge&logo=gamepad&logoColor=black"/>
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:222222,100:111111&height=2&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:243B55,100:141E30&height=2&section=footer"/>
 </p>
 
 ---
@@ -81,11 +82,9 @@
 
 ## 🔥 Projects
 
-```
-🎮 Retro Game (Live)  
-🚀 Loggy (Logging System)  
-🤖 AI Assistant (Coming Soon)  
-```
+* 🎮 Retro Game (Live)
+* 🚀 Loggy (Logging System)
+* 🤖 AI Assistant (Coming Soon)
 
 ---
 
@@ -93,18 +92,12 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://img.shields.io/badge/CONNECT-00FFB2?style=for-the-badge&logo=linkedin&logoColor=black"/>
+    <img src="https://img.shields.io/badge/LinkedIn-00FFB2?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
-</p>
-
----
-
 <p align="center" style="color:#00FFB2; font-family: monospace;">
-  > PRESS START TO CONTINUE...
+  > SYSTEM ONLINE
 </p>
